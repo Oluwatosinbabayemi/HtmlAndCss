@@ -1,7 +1,8 @@
 p {
-  font-family:roboto;
+  font-family:Roboto;
   margin-top:0;
   margin-bottom:0;
+}
 
 .video-title {
 font-weight: bold;
@@ -50,5 +51,4 @@ cursor:pointer;
 
 .shop-link:hover {
 text-decoration:underline;
-}
 }
